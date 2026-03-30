@@ -1,0 +1,5 @@
+{
+  "name": "Manuscript Writer",
+  "description": "A full-stack platform for clinical and HEOR researchers to parse reports, search literature, and generate publication-ready manuscripts using AI.",
+  "requestFramePermissions": []
+}
